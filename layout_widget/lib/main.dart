@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:layout_widget/models/product.dart';
-import 'package:layout_widget/screens/detail_screen.dart';
 import 'package:layout_widget/screens/gridview_screen.dart';
-import 'package:layout_widget/screens/listview_screen.dart';
 
 void main() {
   runApp(const MyApp());
